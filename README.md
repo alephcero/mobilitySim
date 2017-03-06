@@ -25,3 +25,12 @@ Simulation for transport demand
 * Users are generated *with a random poisson distribution with a lamnda as given parameter* 
 * Users request tickets for the shuttle in point A based on the arrival of the shuttle to point A
 * We produce outputs for every user an averages
+
+## simV4
+
+* From point A to Point B
+* One shuttle with the both go and return trip set as *random normal distributions with the mean as a parameter and std = 1*
+* Users are generated *with a random poisson distribution with a lamnda as given parameter* 
+* Users request tickets for the shuttle in point A based on the arrival of the shuttle to point A
+* We produce outputs for every user an averages
+
